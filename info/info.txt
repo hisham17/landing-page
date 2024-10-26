@@ -1,0 +1,7 @@
+landing page
+___________
+1/navigation bar
+logo
+nav
+home  About 	Working space	Testimonials	Pricing Tables	Blog Entries	Contact Us
+--------
